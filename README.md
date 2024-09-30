@@ -1,5 +1,3 @@
-# Predictive-Modelling-to-Address-Health-Disparities-in-Cancer-Diagnosis
-
 # Predicting Metastatic Cancer Diagnosis: Big Data Approach
 
 ## 1. Introduction
